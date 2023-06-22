@@ -1,12 +1,28 @@
 /* utility classes */
+
+/* Dimensioni */
 .h_100 {
     height: 100px;
 }
 
+.p_10 {
+    padding: 10px;
+}
+
+/* colori */
 .bg_red {
     background-color: red;
 }
 
+.bg_dark {
+    background-color: black;
+}
+
+.bg_orange {
+    background-color: rgb(255, 105, 0);
+}
+
+/* flex*/
 .flex {
     display: flex;
 }
@@ -20,10 +36,15 @@
     align-items: center;
 }
 
+/* testo */
 .no_bullets {
     list-style-type: none;
 }
 
-.p_10 {
-    padding: 10px;
+.text_red {
+    color: red;
+}
+
+.text_white {
+    color: white;
 }
