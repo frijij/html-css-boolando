@@ -5,7 +5,8 @@
 }
 
 .card {
-
+    width: 30%;
+border: 1px solid lightgray;
 }
 
 div p {
@@ -15,3 +16,8 @@ div p {
 div i {
     padding: 5px;
 }
+
+.card img {
+    width: 100%;
+}
+
