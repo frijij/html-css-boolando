@@ -11,6 +11,10 @@
     margin-top: 50px;
 }
 
+.mx_20 {
+    margin-top: 20px;
+}
+
 .margin_auto {
     margin: auto;
 }
@@ -70,6 +74,7 @@
 }
 
 .flex_wrap {
+    display:flex;
     flex-wrap: wrap;
 }
 
@@ -92,4 +97,8 @@
 
 .barred {
     text-decoration: line-through;
+}
+
+.font_small {
+    font-size: smaller;
 }
