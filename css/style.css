@@ -8,6 +8,7 @@
     width: 30%;
     border: 1px solid lightgray;
     margin: 10px 0;
+    min-width: 224px;
 }
 
 div p {
@@ -24,6 +25,10 @@ div i {
 
 .card p {
     font-size: smaller;
+}
+
+.header_wrap {
+    min-width: 224px;
 }
 
 body {
