@@ -1,13 +1,27 @@
 /* utility classes */
 
+/* Posizione */
+.centred_div {
+    width: 70%;
+    margin: auto;
+}
 /* Dimensioni */
 .h_100 {
     height: 100px;
 }
 
+.h_50 {
+    height: 50px;
+}
+
 .p_10 {
     padding: 10px;
 }
+
+.h_40 {
+    height: 30px;
+}
+
 
 /* colori */
 .bg_red {
@@ -36,6 +50,10 @@
     align-items: center;
 }
 
+.justify_center {
+    justify-content: center;
+}
+
 /* testo */
 .no_bullets {
     list-style-type: none;
@@ -47,4 +65,8 @@
 
 .text_white {
     color: white;
+}
+
+.text_center {
+    text-align: center;
 }
